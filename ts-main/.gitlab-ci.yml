@@ -1,3 +1,0 @@
-include:
-  - project: infrastructure/chart/repositories
-    file: publish.yml
